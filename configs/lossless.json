@@ -1,0 +1,8 @@
+{
+  "bsc_mainnet": {
+    "controller": "0xDBB5125CEEaf7233768c84A5dF570AeECF0b4634"
+  },
+  "bsc_testnet": {
+    "controller": "0xC46236F780f1294B2C2a8c3cE5B4d62258dC2619"
+  }
+}
